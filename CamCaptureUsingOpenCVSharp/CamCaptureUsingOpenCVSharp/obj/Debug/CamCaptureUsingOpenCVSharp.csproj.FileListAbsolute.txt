@@ -1,0 +1,78 @@
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\CamCaptureUsingOpenCVSharp.exe.config
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.csprojResolveAssemblyReference.cache
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.Properties.Resources.resources
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.csproj.GenerateResource.Cache
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.Form1.resources
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\CamCaptureUsingOpenCVSharp.exe
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\CamCaptureUsingOpenCVSharp.pdb
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Blob.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.pdb
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Blob.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.exe
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.pdb
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.Modules.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.SQLite.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.Wpf.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Dynamic.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Scripting.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.Modules.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.SQLite.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.Wpf.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Dynamic.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Scripting.xml
+C:\Local Disk D\LUMS\6th Semester\SE\Project\TestRuns\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\CamCaptureUsingOpenCVSharp.exe.config
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.exe
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.pdb
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\CamCaptureUsingOpenCVSharp.exe
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\CamCaptureUsingOpenCVSharp.pdb
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.Modules.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.SQLite.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.Wpf.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.Modules.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.SQLite.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\IronPython.Wpf.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.pdb
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.csprojResolveAssemblyReference.cache
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.Form1.resources
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.Properties.Resources.resources
+C:\Users\Adeel\OneDrive\Desktop\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp\obj\Debug\CamCaptureUsingOpenCVSharp.csproj.GenerateResource.Cache

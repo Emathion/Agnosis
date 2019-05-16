@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamCaptureUsingOpenCVSharp", "CamCaptureUsingOpenCVSharp\CamCaptureUsingOpenCVSharp.csproj", "{B3D7528B-6297-485D-9C28-F3D83D1DAE27}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "fuckUadeel", "fuckUadeel\fuckUadeel.vdproj", "{34D05B4D-86A0-4041-9412-96EF3385B2A1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TestSetup_2", "TestSetup_2\TestSetup_2.vdproj", "{1B85AE5B-3C13-44A1-BD5C-9F90462B31F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D7528B-6297-485D-9C28-F3D83D1DAE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D7528B-6297-485D-9C28-F3D83D1DAE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D7528B-6297-485D-9C28-F3D83D1DAE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D7528B-6297-485D-9C28-F3D83D1DAE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D05B4D-86A0-4041-9412-96EF3385B2A1}.Debug|Any CPU.ActiveCfg = Debug
+		{34D05B4D-86A0-4041-9412-96EF3385B2A1}.Release|Any CPU.ActiveCfg = Release
+		{1B85AE5B-3C13-44A1-BD5C-9F90462B31F1}.Debug|Any CPU.ActiveCfg = Debug
+		{1B85AE5B-3C13-44A1-BD5C-9F90462B31F1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
