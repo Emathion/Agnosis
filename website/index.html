@@ -1,0 +1,41 @@
+<html>
+<head>
+  <title>Agnosis</title>
+  <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div id="login_div" class="main-div">
+    <h3>Project Agnosis</h3>
+    <input type="email" placeholder="Email..." id="email_field" />
+    <input type="password" placeholder="Password..." id="password_field" />
+
+    <button onclick="login()">Login to Account</button>
+  </div>
+
+  <div id="user_div" class="loggedin-div">
+    <h3>Welcome User</h3>
+    <p id="user_para">You're currently logged in. Click Next to continue</p>
+    <a href="home.html">Next</a>
+  </div>
+
+
+
+   <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyCsLNIab-zHv0Mw9yc8aTHsaoO9tbCXu1Y",
+      authDomain: "login-e44ff.firebaseapp.com",
+      databaseURL: "https://login-e44ff.firebaseio.com",
+      projectId: "login-e44ff",
+      storageBucket: "login-e44ff.appspot.com",
+      messagingSenderId: "133333646981"
+    };
+    firebase.initializeApp(config);
+  </script>
+  <script src="index.js"></script>
+
+</body>
+</html>
